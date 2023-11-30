@@ -8,5 +8,8 @@ public with sharing class Calc {
 
 
     }
-   
+   public integer add(integer a,integer b)
+   {
+       return a+b;
+   }
 } 
